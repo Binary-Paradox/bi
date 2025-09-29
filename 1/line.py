@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import asyncio
 import rclpy
 from rclpy.node import Node
